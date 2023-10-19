@@ -18,8 +18,8 @@
 		}
 	},
   
-  // Use 'postStartCommand' to run commands after the container is started.
-	"postStartCommand": "npx --yes http-server -c-1 & # webserver on port 8080 no cache"
+    // Use 'postStartCommand' to run commands after the container is started.
+     "postStartCommand": "nohup bash -c 'npx --yes http-server -c-1 &'" // start webserver port 8080 nocache and leave it running in background
 
 	// Configure tool-specific properties.
 	// "customizations": {},
