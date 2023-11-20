@@ -9,6 +9,7 @@ Voor gebruik in codespaces
 ## 0. Maak account op github
     - Ga naar https://github.com/ met de chrome browser
     - Gebruik je schoolmail en kies een inlognaam die begint met je voornaam, maak daarmee een account aan.
+    - Ga terug naar https://github.com/informaticascw/h4v4-website-template/
 
 ## 1. Maak een kopie van dit template
 
@@ -38,6 +39,12 @@ Voor gebruik in codespaces
     - Klik op Ports (1)
     - Ga met je muis op de regel "Webserver" staan (2)
     - Klik op het grijze icoontje rechts naast het wereldbolletje (3)
+
+Op school zit er een fout in het netwerk, gebruik daar dit truukje:
+
+    - Knip de link in je browser https://woord-woord-code.github.dev naar een nieuw tabblad
+    - Verander de link in https://woord-woord-code-8080.app.github.dev
+    - Je ziet nu de webpagina die je in je codespace gemaakt hebt.
   
 ![Preview](images/port.png)
 
@@ -48,4 +55,14 @@ Voor gebruik in codespaces
     - Klik op "Commit & Sync" (3)
   
 ![Commit](images/commit.png)
+
+## 6. Leerling toevoegen.
+
+De opdracht doe je met meerdere personen. Je gebruikt met zijn allen dezelfde github repo, maar ieder gebruikt zijn eigen codespace.
+
+    - De tweede leerling maakt een github account aan (zie stap 0)
+    - De eerste leerling voegt de tweede leerling toe als collaborator aan zijn repo (bijvoorbeeld 2324-html-h4in2-sander), doe dit onder settings in github
+    - De tweede leerling accepteert de uitnodiging om mee te werken als collaborator. De uitnodiging staat in je mail, je moet ingelogged zijn met je github account om te accepten, anders krijg je een 404-error.
+    - De tweede leerling gaat verder met stap 2 tot en met 5
+     
 
