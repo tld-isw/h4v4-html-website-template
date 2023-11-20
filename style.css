@@ -14,24 +14,6 @@
    Warning: keep the * as selector for all tags when uncommenting. */
 /*  * {background-color: rgba(0,0,0,5%);}  */
 
-
-/************************* BASE SETTINGS *************************/
-
-/* Don't change this unless you want to become a pro */
-
-* {                               /* apply to all tags */
-  box-sizing: border-box;         /* border is included in width en height of boxes */
-  margin: 0px;                    /* standard margin 0 pixels */
-}
-
-div {                             /* apply to all div-tags */
-  overflow: hidden;               /* hide everything larger than the dimensions of the div-box
-                                     important side effect: browser usually doesn't take floats
-                                     into account when determining height of div, leading to 
-                                     div with height zero. With this settings, height of div-boxes
-                                     willl be large enough to fit floats inside. */
-  }
-
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
