@@ -78,7 +78,7 @@ Thuis en op andere plaatsen behalve school kun je het zo doen:
     - Klik op Settings -> Collaborator -> People en voeg de GitHub inlognaam van je teamgenoot toe
     - Je teamgenoot logt in op GitHub, opent daarna de schoolmail en klikt op de groene knop "Accept Invitation" in het mailtje van GitHub
     - Als je een 404-error krijgt, dan ben je in de vorige stap vergeten in te loggen op GitHub
-    - Nodig ook je docent uit (GitHub account is vangeest)
+    - Nodig ook je docent uit, gebruik zijn/haar email adres xxxx@stanislascollege.nl
     
 Iedereen uit je groepje kan nu een eigen Codespace maken en de wijzigingen bewaren in de repository van jullie team in GitHub.
 
