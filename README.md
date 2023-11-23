@@ -47,7 +47,7 @@ Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uplo
 
 De codespace heeft een ingebouwde webserver die je kunt gebruiken om te bekijken hoe je website er in het echt uitziet.
 
-Op school zit er een fout in het netwerk, gebruik daar dit truukje:
+Op school zit er een fout in het netwerk, gebruik daar dit trucje:
 
     - Knip de link van je Codespace boven in je browser naar een nieuw tabblad (de link lijkt op https://xxxxxx-xxxxxx-xxxxxx.github.dev)
     - Verander de link in https://xxxxxx-xxxxxx-xxxxxx-8080.app.github.dev (dus voeg -8080.app toe)
