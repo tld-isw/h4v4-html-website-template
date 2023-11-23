@@ -49,8 +49,8 @@ De codespace heeft een ingebouwde webserver die je kunt gebruiken om te bekijken
 
 Op school zit er een fout in het netwerk, gebruik daar dit truukje:
 
-    - Knip de link boven in je browser https://xxxxxx-xxxxxx-code.github.dev naar een nieuw tabblad
-    - Verander de link in https://xxxxxx-xxxxxx-code-8080.app.github.dev
+    - Knip de link van je Codespace boven in je browser naar een nieuw tabblad (de link lijkt op https://xxxxxx-xxxxxx-code.github.dev)
+    - Verander de link in https://xxxxxx-xxxxxx-code-8080.app.github.dev (dus voeg -8080.app toe)
     - Je ziet nu de webpagina die je in je codespace gemaakt hebt.
 
 Thuis en op andere plaatsen kun je het zo doen:
