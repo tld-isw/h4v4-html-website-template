@@ -55,8 +55,8 @@ De codespace heeft een ingebouwde webserver die je kunt gebruiken om te bekijken
 
 Op school zit er een fout in het netwerk, gebruik daar dit truukje:
 
-    - Knip de link in je browser https://woord-woord-code.github.dev naar een nieuw tabblad
-    - Verander de link in https://woord-woord-code-8080.app.github.dev
+    - Knip de link boven in je browser https://xxxxxx-xxxxxx-code.github.dev naar een nieuw tabblad
+    - Verander de link in https://xxxxxx-xxxxxx-code-8080.app.github.dev
     - Je ziet nu de webpagina die je in je codespace gemaakt hebt.
   
 ![Preview](images/port.png)
@@ -71,6 +71,7 @@ Op school zit er een fout in het netwerk, gebruik daar dit truukje:
 
 ## 6. Geef je teamgenoten toegang tot je kopie
 
+    - Ga terug naar je repository op https://github.com/jouwgebruikersnaam.....
     - Klik op Settings -> Collaborator -> People en voeg de GitHub inlognaam van je teamgenoot toe
     - Je teamgenoot logt in op GitHub, opent daarna de schoolmail en klikt op de groene knop "Accept Invitation" in het mailtje van GitHub
     - Als je een 404-error krijgt, dan ben je in de vorige stap vergeten in te loggen op GitHub
