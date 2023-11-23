@@ -47,17 +47,20 @@ Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uplo
 
 De codespace heeft een ingebouwde webserver die je kunt gebruiken om te bekijken hoe je website er in het echt uitziet.
 
+Op school zit er een fout in het netwerk, gebruik daar dit truukje:
+
+    - Knip de link boven in je browser https://xxxxxx-xxxxxx-code.github.dev naar een nieuw tabblad
+    - Verander de link in https://xxxxxx-xxxxxx-code-8080.app.github.dev
+    - Je ziet nu de webpagina die je in je codespace gemaakt hebt.
+
+Thuis en op andere plaatsen kun je het zo doen:
+    
     - Ga naar de Simple Browser tab en klik op reload
     - Als de Simple Broswer niet geopend is, dan kun je die als volgt openen:
     - Klik op Ports (1)
     - Ga met je muis op de regel "Webserver" staan (2)
     - Klik op het grijze icoontje rechts naast het wereldbolletje (3)
 
-Op school zit er een fout in het netwerk, gebruik daar dit truukje:
-
-    - Knip de link boven in je browser https://xxxxxx-xxxxxx-code.github.dev naar een nieuw tabblad
-    - Verander de link in https://xxxxxx-xxxxxx-code-8080.app.github.dev
-    - Je ziet nu de webpagina die je in je codespace gemaakt hebt.
   
 ![Preview](images/port.png)
 
