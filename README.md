@@ -39,7 +39,7 @@ Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een brows
 
 Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uploaden. Bestanden uploaden gebruik je voor plaatjes.
 
-    - Voeg in het bestand index.html je favoriete kleur toe.
+    - Voeg in het bestand index.html op de plek van de drie puntjes je favoriete kleur toe.
     
 ![Bestanden](images/bestand.png)
 
