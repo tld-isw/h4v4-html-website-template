@@ -20,7 +20,7 @@ Je maakt één kopie per groepje. De kopie die je maakt noemen ze in GitHub een 
     - Eén persoon uit het groepje maakt een kopie van het template:
     - klik op groen knop "Use Template" (1)
     - klik op "Create New Repository" (2)
-    - geef naam zoals jaar-html-klas-voornamen, bijvoorbeeld 2324-website-h4in2-sam-daan
+    - geef naam zoals jaar-website-klas-voornamen, bijvoorbeeld 2324-website-h4in2-sam-daan
     - kies public (niet private)
 
 ![Use template](images/template.png)
