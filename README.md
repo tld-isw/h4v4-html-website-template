@@ -3,13 +3,15 @@
 This repository is a template for Dutch students of Stanislascollege Westplantsoen grade havo-4 and vwo-4 (highschool grade 10 in the US-system).
 It contains startcode for an assigment to build a website. The recommended IDE for this template is Codespaces.
 
-## 1. Open een Codespace van jullie kopie
+## 1. Open een Codespace
 
 Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een browser toegang krijgt tot een server. Op de server staat een kopie van jouw bestanden uit GitHub.
 
     - klik op groen knop "Code" (1)
     - klik op tabje "Codespaces" (2)
     - klik op "Create Codespace on main" (3)
+
+Elk teamlid heeft een eigen Codespace, maar je deelt één GitHub repository je teamleden.
   
 ![Codespace](images/codespace.png)
 
