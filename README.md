@@ -1,6 +1,6 @@
-# Template voor Praktische Opdracht Website
+# Template voor Praktische Opdracht Webdesign
 
-This repository is a template for Dutch students of Stanislascollege Westplantsoen grade havo-4 and vwo-4 (highsschool grade 10 in the US-system).
+This repository is a template for Dutch students of Stanislascollege Westplantsoen grade havo-4 and vwo-4 (highschool grade 10 in the US-system).
 It contains startcode for an assigment to build a website. The recommended IDE for this template is Codespaces.
 
 ## 1. Open een Codespace van jullie kopie
