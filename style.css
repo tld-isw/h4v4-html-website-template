@@ -1,7 +1,7 @@
 /************************* DEBUG SETTINGS *************************/
 
 /* Settings to help find errors in your css
-   uncomment to enable */
+   uncomment temporarily to enable */
 
 /* Add dotted line around all boxes.
    This makes size of boxes visible.
@@ -13,6 +13,24 @@
    The more boxes are on top of eachother the darker tghe background color
    Warning: keep the * as selector for all tags when uncommenting. */
 /*  * {background-color: rgba(0,0,0,5%);}  */
+
+/************************* BASE SETTINGS *************************/
+
+/* Settings to make it easier for you
+   uncomment permanently when you understand the meaning of them */
+   
+/* border is included in width en height of boxes */
+/* * { box-sizing: border-box; } */
+
+/* standard margin 0 pixels */
+/* * { margin: 0px; } */
+
+/* hide everything larger than the dimensions of the div-box
+   important side effect: browser usually doesn't take floats
+   into account when determining height of div, leading to 
+   div with height zero. With this settings, height of div-boxes
+   willl be large enough to fit floats inside. */
+/* div { overflow: hidden; }
 
 /************************* YOUR SETTINGS *************************/
 
