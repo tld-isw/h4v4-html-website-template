@@ -1,7 +1,9 @@
 # Template voor Praktische Opdracht Webdesign
 
-This repository is a template for Dutch students of Stanislascollege Westplantsoen grade havo-4 and vwo-4 (highschool grade 10 in the US-system).
+This repository is a template for Dutch students of ISW Hoogeland grades havo-4 and vwo-4 (highschool grade 10 in the US-system).
 It contains startcode for an assigment to build a website. The recommended IDE for this template is Codespaces.
+
+This template has been forked from Stanislascollege Westplantsoen.
 
 ## 1. Open een Codespace
 
@@ -13,7 +15,7 @@ Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een brows
 
 Elk teamlid heeft een eigen Codespace, maar je deelt één GitHub repository je teamleden.
   
-![Codespace](images/codespace.png)
+![Codespace](images/readme/codespace.png)
 
 ## 2. Maak een aanpassing aan je website
 
@@ -21,7 +23,7 @@ Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uplo
 
     - Voeg in het bestand index.html op de plek van de drie puntjes je favoriete kleur toe.
     
-![Bestanden](images/bestand.png)
+![Bestanden](images/readme/bestand.png)
 
 ## 3. Bekijk het resultaat in een browser.
 
@@ -31,14 +33,14 @@ Omdat er een bug (foutje) in de preview-functie zit, moet je de volgende stappen
     - Klik op de bovenste regel (port 3000) en vervolgens op het wereldbolletje dat verschijnt (2), er opent een nieuw tabblad, sluit het zojuist geopende tabblad
     - Klik op de bovenste regel (port 3001) en vervolgens op het wereldbolletje dat verschijnt (2), er opent een nieuw tabblad, sluit het zojuist geopende tabblad
     
-![Preview](images/previewbug.png)
+![Preview](images/readme/previewbug.png)
 
     - Klik linksboven op het icoontje met de twee velletjes papier, zodat de explorer zichtbaar wordt. (1)
     - Klik op een .html bestand, het bestand wordt geopend (2)
     - Klik op het Show Preview icoon in de balk boven het bestand waarin ook de naam van het bestand staat, een preview wordt geopend (3)
     - Wijzigingen die je doet in het bestand worden direct in de preview zichtbaar
     
-![Preview](images/preview.png)
+![Preview](images/readme/preview.png)
 
 ## 4. Bewaar je laatste versie in GitHub.
 
@@ -46,7 +48,7 @@ Omdat er een bug (foutje) in de preview-functie zit, moet je de volgende stappen
     - Type bij "Message" enkele woorden wat je gedaan hebt (2)
     - Klik op "Commit & Sync" (3)
   
-![Commit](images/commit.png)
+![Commit](images/readme/commit.png)
 
 ## Informatie over GitHub met Codespaces
 
